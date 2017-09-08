@@ -1,4 +1,3 @@
 # postit_js_application
-A small application to create digital post-its and store them locally
-
+A small application to create digital and draggable post-its for local storage
 Originally created as part of a university exam for a course in webprogramming
